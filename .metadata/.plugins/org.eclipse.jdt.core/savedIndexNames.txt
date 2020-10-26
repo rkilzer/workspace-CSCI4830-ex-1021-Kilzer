@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\rkilz\eclipse\workspace\workspace-CSCI4830-Kilzer\workspace-CSCI4830-ex-1021-Kilzer\.metadata\.plugins\org.eclipse.jdt.core
+4088832729.index
+2326598508.index
